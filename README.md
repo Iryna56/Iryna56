@@ -13,6 +13,37 @@ Mein Schwerpunkt liegt auf der Java-Entwicklung. Ich erweitere kontinuierlich me
 - **Tools:** Git, GitHub, Entwicklungsumgebungen
 - **Weitere Themen:** Netzwerke, IT-Sicherheit, Windows Server
 
+### Meine bisherigen Projekte und Übungen
+
+Die folgenden Repositories dokumentieren meine praktische Arbeit mit Java, Datenstrukturen, Datenbanken und weiteren Entwicklungstechnologien.
+
+#### Java – Objektorientierte Programmierung
+
+- [FirstOopProgram](https://github.com/Iryna56/FirstOopProgram) – OOP, Vererbung und Interfaces
+- [Students](https://github.com/Iryna56/Students) – Objektmodellierung, Collections und Stream API
+- [HomeworkDaniil](https://github.com/Iryna56/HomeworkDaniil) – Modellierung eines Rentenfonds mit Java
+
+#### Java – Fortgeschrittene Themen
+
+- [GenerationPensionFonds](https://github.com/Iryna56/GenerationPensionFonds) – Datengenerierung und Datei-I/O
+- [JAVA_PROF_ALL](https://github.com/Iryna56/JAVA_PROF_ALL) – Fortgeschrittene Java-Übungen
+- [Stream](https://github.com/Iryna56/Stream) – Verarbeitung von Daten mit der Stream API
+- [Exception-typeErasure](https://github.com/Iryna56/Exception-typeErasure) – Exceptions und Generics
+
+#### Algorithmen und Datenstrukturen
+
+- [list-implenentation](https://github.com/Iryna56/list-implenentation) – Eigene Implementierungen von ArrayList und LinkedList
+- [Algorithms](https://github.com/Iryna56/Algorithms) – Algorithmische Übungen
+- [Graph](https://github.com/Iryna56/Graph) – Grundlagen der Graphenmodellierung
+
+
+#### Entwicklungswerkzeuge 
+
+- [git_lesson](https://github.com/Iryna56/git_lesson) – Git und Versionsverwaltung
+- [linux_hw](https://github.com/Iryna56/linux_hw) – Linux und Bash-Skripting
+
+*Weitere kleinere Lernübungen befinden sich in meinen öffentlichen Repositories.*
+
 ### Meine Portfolio-Projekte
 
 Hier entstehen drei eigenständige Projekte:
