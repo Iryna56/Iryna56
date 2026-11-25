@@ -11,7 +11,7 @@ Mein Schwerpunkt liegt auf der Java-Entwicklung. Ich erweitere kontinuierlich me
 - **Programmiersprachen:** Java, SQL, HTML, CSS, JavaScript
 - **Grundlagen:** OOP, Datenstrukturen, Algorithmen
 - **Tools:** Git, GitHub, Entwicklungsumgebungen
-- **Weitere Themen:** Netzwerke, IT-Sicherheit, Windows Server
+- **Weitere Themen:** Linux, AlmaLinux, Windows Server, Netzwerke, IT-Sicherheit und Systemadministration
 
 ### Meine bisherigen Projekte und Übungen
 
@@ -43,6 +43,15 @@ Die folgenden Repositories dokumentieren meine praktische Arbeit mit Java, Daten
 - [linux_hw](https://github.com/Iryna56/linux_hw) – Linux und Bash-Skripting
 
 *Weitere kleinere Lernübungen befinden sich in meinen öffentlichen Repositories.*
+
+#### Linux & Systemadministration
+
+- [Linux-Lab](https://github.com/Iryna56/Linux-Lab) – Praktische Übungen und technische Dokumentation zur Linux-Systemadministration mit AlmaLinux.
+  - LVM, RAID und Thin Provisioning
+  - Dateisysteme, Mount und fstab
+  - Logfiles, Journalctl und Audit
+  - Archivierung, Komprimierung und Backup
+  - Systemd, Bash und Troubleshooting
 
 ### Meine Portfolio-Projekte
 
